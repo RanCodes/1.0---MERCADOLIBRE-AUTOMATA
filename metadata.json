@@ -1,0 +1,5 @@
+{
+  "name": "3.1 - DASHBOARD DE SINCRONIZACIÓN",
+  "description": "Herramienta especializada para cruzar catálogos de Mercado Libre y Odoo, con dashboard de métricas de sincronización y cálculo de precios.",
+  "requestFramePermissions": []
+}
